@@ -21,6 +21,7 @@ webpackJsonp([1, 2], {
         e.default = {
             name: "app", components: {StyleEditor: c.a, ResumeEditor: f.a}, data: function () {
                 return {
+
                     interval: 49,
                     currentStyle: "",
                     enableHtml: !1,
